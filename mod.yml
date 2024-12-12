@@ -1,0 +1,13 @@
+title: Balls In Chat
+originalAuthor: danimalforlife
+description: Balls in chat everybody balls balls balls balls balls balls balls balls balls. Fixes Roxas' DM.
+dependencies: 
+
+
+
+assets:
+###Roxas Fight Sound Effects###
+- name: remastered/obj/B_EX390.a.us/se/obj/se393
+  method: copy
+  source:
+  - name: balls/balls
